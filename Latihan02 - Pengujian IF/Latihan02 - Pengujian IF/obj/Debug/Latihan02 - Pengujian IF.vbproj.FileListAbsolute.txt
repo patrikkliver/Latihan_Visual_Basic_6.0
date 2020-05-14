@@ -1,0 +1,12 @@
+D:\Patrik\Document\Project\Desktop App\latihan-visual-basic-6.0\Latihan02 - Pengujian IF\Latihan02 - Pengujian IF\bin\Debug\Latihan02 - Pengujian IF.exe.config
+D:\Patrik\Document\Project\Desktop App\latihan-visual-basic-6.0\Latihan02 - Pengujian IF\Latihan02 - Pengujian IF\bin\Debug\Latihan02 - Pengujian IF.exe
+D:\Patrik\Document\Project\Desktop App\latihan-visual-basic-6.0\Latihan02 - Pengujian IF\Latihan02 - Pengujian IF\bin\Debug\Latihan02 - Pengujian IF.pdb
+D:\Patrik\Document\Project\Desktop App\latihan-visual-basic-6.0\Latihan02 - Pengujian IF\Latihan02 - Pengujian IF\bin\Debug\Latihan02 - Pengujian IF.xml
+D:\Patrik\Document\Project\Desktop App\latihan-visual-basic-6.0\Latihan02 - Pengujian IF\Latihan02 - Pengujian IF\obj\Debug\Latihan02 - Pengujian IF.vbprojAssemblyReference.cache
+D:\Patrik\Document\Project\Desktop App\latihan-visual-basic-6.0\Latihan02 - Pengujian IF\Latihan02 - Pengujian IF\obj\Debug\Latihan02___Pengujian_IF.Form1.resources
+D:\Patrik\Document\Project\Desktop App\latihan-visual-basic-6.0\Latihan02 - Pengujian IF\Latihan02 - Pengujian IF\obj\Debug\Latihan02___Pengujian_IF.Resources.resources
+D:\Patrik\Document\Project\Desktop App\latihan-visual-basic-6.0\Latihan02 - Pengujian IF\Latihan02 - Pengujian IF\obj\Debug\Latihan02 - Pengujian IF.vbproj.GenerateResource.cache
+D:\Patrik\Document\Project\Desktop App\latihan-visual-basic-6.0\Latihan02 - Pengujian IF\Latihan02 - Pengujian IF\obj\Debug\Latihan02 - Pengujian IF.vbproj.CoreCompileInputs.cache
+D:\Patrik\Document\Project\Desktop App\latihan-visual-basic-6.0\Latihan02 - Pengujian IF\Latihan02 - Pengujian IF\obj\Debug\Latihan02 - Pengujian IF.exe
+D:\Patrik\Document\Project\Desktop App\latihan-visual-basic-6.0\Latihan02 - Pengujian IF\Latihan02 - Pengujian IF\obj\Debug\Latihan02 - Pengujian IF.xml
+D:\Patrik\Document\Project\Desktop App\latihan-visual-basic-6.0\Latihan02 - Pengujian IF\Latihan02 - Pengujian IF\obj\Debug\Latihan02 - Pengujian IF.pdb
