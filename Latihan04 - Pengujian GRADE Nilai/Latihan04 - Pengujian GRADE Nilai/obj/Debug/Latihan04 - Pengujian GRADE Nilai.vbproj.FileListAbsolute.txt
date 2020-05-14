@@ -1,0 +1,12 @@
+D:\Patrik\Document\Project\Desktop App\Latihan_Visual_Basic_6.0\Latihan04 - Pengujian GRADE Nilai\Latihan04 - Pengujian GRADE Nilai\bin\Debug\Latihan04 - Pengujian GRADE Nilai.exe.config
+D:\Patrik\Document\Project\Desktop App\Latihan_Visual_Basic_6.0\Latihan04 - Pengujian GRADE Nilai\Latihan04 - Pengujian GRADE Nilai\bin\Debug\Latihan04 - Pengujian GRADE Nilai.exe
+D:\Patrik\Document\Project\Desktop App\Latihan_Visual_Basic_6.0\Latihan04 - Pengujian GRADE Nilai\Latihan04 - Pengujian GRADE Nilai\bin\Debug\Latihan04 - Pengujian GRADE Nilai.pdb
+D:\Patrik\Document\Project\Desktop App\Latihan_Visual_Basic_6.0\Latihan04 - Pengujian GRADE Nilai\Latihan04 - Pengujian GRADE Nilai\bin\Debug\Latihan04 - Pengujian GRADE Nilai.xml
+D:\Patrik\Document\Project\Desktop App\Latihan_Visual_Basic_6.0\Latihan04 - Pengujian GRADE Nilai\Latihan04 - Pengujian GRADE Nilai\obj\Debug\Latihan04 - Pengujian GRADE Nilai.vbprojAssemblyReference.cache
+D:\Patrik\Document\Project\Desktop App\Latihan_Visual_Basic_6.0\Latihan04 - Pengujian GRADE Nilai\Latihan04 - Pengujian GRADE Nilai\obj\Debug\Latihan04___Pengujian_GRADE_Nilai.Form1.resources
+D:\Patrik\Document\Project\Desktop App\Latihan_Visual_Basic_6.0\Latihan04 - Pengujian GRADE Nilai\Latihan04 - Pengujian GRADE Nilai\obj\Debug\Latihan04___Pengujian_GRADE_Nilai.Resources.resources
+D:\Patrik\Document\Project\Desktop App\Latihan_Visual_Basic_6.0\Latihan04 - Pengujian GRADE Nilai\Latihan04 - Pengujian GRADE Nilai\obj\Debug\Latihan04 - Pengujian GRADE Nilai.vbproj.GenerateResource.cache
+D:\Patrik\Document\Project\Desktop App\Latihan_Visual_Basic_6.0\Latihan04 - Pengujian GRADE Nilai\Latihan04 - Pengujian GRADE Nilai\obj\Debug\Latihan04 - Pengujian GRADE Nilai.vbproj.CoreCompileInputs.cache
+D:\Patrik\Document\Project\Desktop App\Latihan_Visual_Basic_6.0\Latihan04 - Pengujian GRADE Nilai\Latihan04 - Pengujian GRADE Nilai\obj\Debug\Latihan04 - Pengujian GRADE Nilai.exe
+D:\Patrik\Document\Project\Desktop App\Latihan_Visual_Basic_6.0\Latihan04 - Pengujian GRADE Nilai\Latihan04 - Pengujian GRADE Nilai\obj\Debug\Latihan04 - Pengujian GRADE Nilai.xml
+D:\Patrik\Document\Project\Desktop App\Latihan_Visual_Basic_6.0\Latihan04 - Pengujian GRADE Nilai\Latihan04 - Pengujian GRADE Nilai\obj\Debug\Latihan04 - Pengujian GRADE Nilai.pdb
