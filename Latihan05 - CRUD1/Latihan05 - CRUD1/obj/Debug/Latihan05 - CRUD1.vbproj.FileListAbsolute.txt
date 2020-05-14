@@ -1,0 +1,12 @@
+D:\Patrik\Document\Project\Desktop App\Latihan_Visual_Basic_6.0\Latihan05 - CRUD1\Latihan05 - CRUD1\bin\Debug\Latihan05 - CRUD1.exe.config
+D:\Patrik\Document\Project\Desktop App\Latihan_Visual_Basic_6.0\Latihan05 - CRUD1\Latihan05 - CRUD1\bin\Debug\Latihan05 - CRUD1.exe
+D:\Patrik\Document\Project\Desktop App\Latihan_Visual_Basic_6.0\Latihan05 - CRUD1\Latihan05 - CRUD1\bin\Debug\Latihan05 - CRUD1.pdb
+D:\Patrik\Document\Project\Desktop App\Latihan_Visual_Basic_6.0\Latihan05 - CRUD1\Latihan05 - CRUD1\bin\Debug\Latihan05 - CRUD1.xml
+D:\Patrik\Document\Project\Desktop App\Latihan_Visual_Basic_6.0\Latihan05 - CRUD1\Latihan05 - CRUD1\obj\Debug\Latihan05 - CRUD1.vbprojAssemblyReference.cache
+D:\Patrik\Document\Project\Desktop App\Latihan_Visual_Basic_6.0\Latihan05 - CRUD1\Latihan05 - CRUD1\obj\Debug\Latihan05___CRUD1.Form1.resources
+D:\Patrik\Document\Project\Desktop App\Latihan_Visual_Basic_6.0\Latihan05 - CRUD1\Latihan05 - CRUD1\obj\Debug\Latihan05___CRUD1.Resources.resources
+D:\Patrik\Document\Project\Desktop App\Latihan_Visual_Basic_6.0\Latihan05 - CRUD1\Latihan05 - CRUD1\obj\Debug\Latihan05 - CRUD1.vbproj.GenerateResource.cache
+D:\Patrik\Document\Project\Desktop App\Latihan_Visual_Basic_6.0\Latihan05 - CRUD1\Latihan05 - CRUD1\obj\Debug\Latihan05 - CRUD1.vbproj.CoreCompileInputs.cache
+D:\Patrik\Document\Project\Desktop App\Latihan_Visual_Basic_6.0\Latihan05 - CRUD1\Latihan05 - CRUD1\obj\Debug\Latihan05 - CRUD1.exe
+D:\Patrik\Document\Project\Desktop App\Latihan_Visual_Basic_6.0\Latihan05 - CRUD1\Latihan05 - CRUD1\obj\Debug\Latihan05 - CRUD1.xml
+D:\Patrik\Document\Project\Desktop App\Latihan_Visual_Basic_6.0\Latihan05 - CRUD1\Latihan05 - CRUD1\obj\Debug\Latihan05 - CRUD1.pdb
