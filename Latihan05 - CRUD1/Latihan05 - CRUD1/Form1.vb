@@ -23,9 +23,25 @@ Public Class Form1
         Ds.Clear()
         Da.Fill(Ds, "tbl_mahasiswa")
         DataGridView1.DataSource = (Ds.Tables("tbl_mahasiswa"))
+        CB_JenisKelamin.Text = ""
+        CB_JenisKelamin.Items.Add("Pria")
+        CB_JenisKelamin.Items.Add("Wanita")
     End Sub
 
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        Call KondisiAwal()
+    End Sub
+
+    Private Sub Button4_Click(sender As Object, e As EventArgs) Handles Button4.Click
+        Me.Close()
+    End Sub
+
+    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+        Call Koneksi()
+        Dim InputData As String = "insert into tbl_mahasiswa values('" & TB_Nim.Text & "', '" & TB_Nama.Text & "', '" & CB_JenisKelamin.Text & "', '" & TB_Alamat.Text & "', '" & TB_Telepon.Text & "')"
+        Cmd = New SqlCommand(InputData, Conn)
+        Cmd.ExecuteNonQuery()
+        MsgBox("Data Berhasil di Input")
         Call KondisiAwal()
     End Sub
 End Class
