@@ -1,0 +1,12 @@
+D:\Patrik\Document\Working\Visual Basic 6.0\Latihan01 - Kalkulator Sederhana\Latihan01 - Kalkulator Sederhana\bin\Debug\Latihan01 - Kalkulator Sederhana.exe.config
+D:\Patrik\Document\Working\Visual Basic 6.0\Latihan01 - Kalkulator Sederhana\Latihan01 - Kalkulator Sederhana\bin\Debug\Latihan01 - Kalkulator Sederhana.exe
+D:\Patrik\Document\Working\Visual Basic 6.0\Latihan01 - Kalkulator Sederhana\Latihan01 - Kalkulator Sederhana\bin\Debug\Latihan01 - Kalkulator Sederhana.pdb
+D:\Patrik\Document\Working\Visual Basic 6.0\Latihan01 - Kalkulator Sederhana\Latihan01 - Kalkulator Sederhana\bin\Debug\Latihan01 - Kalkulator Sederhana.xml
+D:\Patrik\Document\Working\Visual Basic 6.0\Latihan01 - Kalkulator Sederhana\Latihan01 - Kalkulator Sederhana\obj\Debug\Latihan01 - Kalkulator Sederhana.vbprojAssemblyReference.cache
+D:\Patrik\Document\Working\Visual Basic 6.0\Latihan01 - Kalkulator Sederhana\Latihan01 - Kalkulator Sederhana\obj\Debug\Latihan01___Kalkulator_Sederhana.Form1.resources
+D:\Patrik\Document\Working\Visual Basic 6.0\Latihan01 - Kalkulator Sederhana\Latihan01 - Kalkulator Sederhana\obj\Debug\Latihan01___Kalkulator_Sederhana.Resources.resources
+D:\Patrik\Document\Working\Visual Basic 6.0\Latihan01 - Kalkulator Sederhana\Latihan01 - Kalkulator Sederhana\obj\Debug\Latihan01 - Kalkulator Sederhana.vbproj.GenerateResource.cache
+D:\Patrik\Document\Working\Visual Basic 6.0\Latihan01 - Kalkulator Sederhana\Latihan01 - Kalkulator Sederhana\obj\Debug\Latihan01 - Kalkulator Sederhana.vbproj.CoreCompileInputs.cache
+D:\Patrik\Document\Working\Visual Basic 6.0\Latihan01 - Kalkulator Sederhana\Latihan01 - Kalkulator Sederhana\obj\Debug\Latihan01 - Kalkulator Sederhana.exe
+D:\Patrik\Document\Working\Visual Basic 6.0\Latihan01 - Kalkulator Sederhana\Latihan01 - Kalkulator Sederhana\obj\Debug\Latihan01 - Kalkulator Sederhana.xml
+D:\Patrik\Document\Working\Visual Basic 6.0\Latihan01 - Kalkulator Sederhana\Latihan01 - Kalkulator Sederhana\obj\Debug\Latihan01 - Kalkulator Sederhana.pdb
