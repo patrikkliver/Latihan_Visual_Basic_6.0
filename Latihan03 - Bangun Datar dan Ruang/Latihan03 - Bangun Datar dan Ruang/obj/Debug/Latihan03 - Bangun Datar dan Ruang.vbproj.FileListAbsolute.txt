@@ -1,0 +1,14 @@
+D:\Patrik\Document\Project\Desktop App\latihan-visual-basic-6.0\Latihan03 - Bangun Datar dan Ruang\Latihan03 - Bangun Datar dan Ruang\bin\Debug\Latihan03 - Bangun Datar dan Ruang.exe.config
+D:\Patrik\Document\Project\Desktop App\latihan-visual-basic-6.0\Latihan03 - Bangun Datar dan Ruang\Latihan03 - Bangun Datar dan Ruang\bin\Debug\Latihan03 - Bangun Datar dan Ruang.exe
+D:\Patrik\Document\Project\Desktop App\latihan-visual-basic-6.0\Latihan03 - Bangun Datar dan Ruang\Latihan03 - Bangun Datar dan Ruang\bin\Debug\Latihan03 - Bangun Datar dan Ruang.pdb
+D:\Patrik\Document\Project\Desktop App\latihan-visual-basic-6.0\Latihan03 - Bangun Datar dan Ruang\Latihan03 - Bangun Datar dan Ruang\bin\Debug\Latihan03 - Bangun Datar dan Ruang.xml
+D:\Patrik\Document\Project\Desktop App\latihan-visual-basic-6.0\Latihan03 - Bangun Datar dan Ruang\Latihan03 - Bangun Datar dan Ruang\obj\Debug\Latihan03 - Bangun Datar dan Ruang.vbprojAssemblyReference.cache
+D:\Patrik\Document\Project\Desktop App\latihan-visual-basic-6.0\Latihan03 - Bangun Datar dan Ruang\Latihan03 - Bangun Datar dan Ruang\obj\Debug\Latihan03___Bangun_Datar_dan_Ruang.Resources.resources
+D:\Patrik\Document\Project\Desktop App\latihan-visual-basic-6.0\Latihan03 - Bangun Datar dan Ruang\Latihan03 - Bangun Datar dan Ruang\obj\Debug\Latihan03 - Bangun Datar dan Ruang.vbproj.GenerateResource.cache
+D:\Patrik\Document\Project\Desktop App\latihan-visual-basic-6.0\Latihan03 - Bangun Datar dan Ruang\Latihan03 - Bangun Datar dan Ruang\obj\Debug\Latihan03 - Bangun Datar dan Ruang.vbproj.CoreCompileInputs.cache
+D:\Patrik\Document\Project\Desktop App\latihan-visual-basic-6.0\Latihan03 - Bangun Datar dan Ruang\Latihan03 - Bangun Datar dan Ruang\obj\Debug\Latihan03 - Bangun Datar dan Ruang.exe
+D:\Patrik\Document\Project\Desktop App\latihan-visual-basic-6.0\Latihan03 - Bangun Datar dan Ruang\Latihan03 - Bangun Datar dan Ruang\obj\Debug\Latihan03 - Bangun Datar dan Ruang.xml
+D:\Patrik\Document\Project\Desktop App\latihan-visual-basic-6.0\Latihan03 - Bangun Datar dan Ruang\Latihan03 - Bangun Datar dan Ruang\obj\Debug\Latihan03 - Bangun Datar dan Ruang.pdb
+D:\Patrik\Document\Project\Desktop App\latihan-visual-basic-6.0\Latihan03 - Bangun Datar dan Ruang\Latihan03 - Bangun Datar dan Ruang\obj\Debug\Latihan03___Bangun_Datar_dan_Ruang.F_Home.resources
+D:\Patrik\Document\Project\Desktop App\latihan-visual-basic-6.0\Latihan03 - Bangun Datar dan Ruang\Latihan03 - Bangun Datar dan Ruang\obj\Debug\Latihan03___Bangun_Datar_dan_Ruang.F_Persegi.resources
+D:\Patrik\Document\Project\Desktop App\latihan-visual-basic-6.0\Latihan03 - Bangun Datar dan Ruang\Latihan03 - Bangun Datar dan Ruang\obj\Debug\Latihan03___Bangun_Datar_dan_Ruang.F_Balok.resources
