@@ -44,4 +44,13 @@ Public Class Form1
         MsgBox("Data Berhasil di Input")
         Call KondisiAwal()
     End Sub
+
+    Private Sub BTN_Update_Click(sender As Object, e As EventArgs) Handles BTN_Update.Click
+        Call Koneksi()
+        Dim EditData As String = "update tbl_mahasiswa set Nama = '" & TB_Nama.Text & "', JenisKelamin = '" & CB_JenisKelamin.Text & "', Alamat = '" & TB_Alamat.Text & "', Tlpn = '" & TB_Telepon.Text & "' where Nim = '" & TB_Nim.Text & "'"
+        Cmd = New SqlCommand(EditData, Conn)
+        Cmd.ExecuteNonQuery()
+        MsgBox("Data Berhasil di Edit")
+        Call KondisiAwal()
+    End Sub
 End Class

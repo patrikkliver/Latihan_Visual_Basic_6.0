@@ -35,7 +35,7 @@ Partial Class Form1
         Me.CB_JenisKelamin = New System.Windows.Forms.ComboBox()
         Me.Button1 = New System.Windows.Forms.Button()
         Me.Button2 = New System.Windows.Forms.Button()
-        Me.Button3 = New System.Windows.Forms.Button()
+        Me.BTN_Update = New System.Windows.Forms.Button()
         Me.Button4 = New System.Windows.Forms.Button()
         CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
@@ -160,15 +160,15 @@ Partial Class Form1
         Me.Button2.Text = "Delete"
         Me.Button2.UseVisualStyleBackColor = True
         '
-        'Button3
+        'BTN_Update
         '
-        Me.Button3.Font = New System.Drawing.Font("Times New Roman", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button3.Location = New System.Drawing.Point(342, 315)
-        Me.Button3.Name = "Button3"
-        Me.Button3.Size = New System.Drawing.Size(108, 32)
-        Me.Button3.TabIndex = 14
-        Me.Button3.Text = "Update"
-        Me.Button3.UseVisualStyleBackColor = True
+        Me.BTN_Update.Font = New System.Drawing.Font("Times New Roman", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.BTN_Update.Location = New System.Drawing.Point(342, 315)
+        Me.BTN_Update.Name = "BTN_Update"
+        Me.BTN_Update.Size = New System.Drawing.Size(108, 32)
+        Me.BTN_Update.TabIndex = 14
+        Me.BTN_Update.Text = "Update"
+        Me.BTN_Update.UseVisualStyleBackColor = True
         '
         'Button4
         '
@@ -186,7 +186,7 @@ Partial Class Form1
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(677, 592)
         Me.Controls.Add(Me.Button4)
-        Me.Controls.Add(Me.Button3)
+        Me.Controls.Add(Me.BTN_Update)
         Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.CB_JenisKelamin)
@@ -222,6 +222,6 @@ Partial Class Form1
     Friend WithEvents CB_JenisKelamin As ComboBox
     Friend WithEvents Button1 As Button
     Friend WithEvents Button2 As Button
-    Friend WithEvents Button3 As Button
+    Friend WithEvents BTN_Update As Button
     Friend WithEvents Button4 As Button
 End Class
