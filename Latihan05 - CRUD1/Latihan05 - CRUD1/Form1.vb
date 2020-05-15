@@ -32,11 +32,11 @@ Public Class Form1
         Call KondisiAwal()
     End Sub
 
-    Private Sub Button4_Click(sender As Object, e As EventArgs) Handles Button4.Click
+    Private Sub BTN_Keluar_Click(sender As Object, e As EventArgs) Handles BTN_Keluar.Click
         Me.Close()
     End Sub
 
-    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+    Private Sub BTN_Input_Click(sender As Object, e As EventArgs) Handles BTN_Input.Click
         Call Koneksi()
         Dim InputData As String = "insert into tbl_mahasiswa values('" & TB_Nim.Text & "', '" & TB_Nama.Text & "', '" & CB_JenisKelamin.Text & "', '" & TB_Alamat.Text & "', '" & TB_Telepon.Text & "')"
         Cmd = New SqlCommand(InputData, Conn)
@@ -51,6 +51,15 @@ Public Class Form1
         Cmd = New SqlCommand(EditData, Conn)
         Cmd.ExecuteNonQuery()
         MsgBox("Data Berhasil di Edit")
+        Call KondisiAwal()
+    End Sub
+
+    Private Sub BTN_Delete_Click(sender As Object, e As EventArgs) Handles BTN_Delete.Click
+        Call Koneksi()
+        Dim DelData As String = "delete tbl_mahasiswa where Nim = '" & TB_Nim.Text & "'"
+        Cmd = New SqlCommand(DelData, Conn)
+        Cmd.ExecuteNonQuery()
+        MsgBox("Data Berhasil di Hapus")
         Call KondisiAwal()
     End Sub
 End Class

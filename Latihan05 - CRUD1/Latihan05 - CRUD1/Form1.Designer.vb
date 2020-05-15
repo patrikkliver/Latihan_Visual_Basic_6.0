@@ -33,10 +33,10 @@ Partial Class Form1
         Me.TB_Nama = New System.Windows.Forms.TextBox()
         Me.TB_Telepon = New System.Windows.Forms.TextBox()
         Me.CB_JenisKelamin = New System.Windows.Forms.ComboBox()
-        Me.Button1 = New System.Windows.Forms.Button()
-        Me.Button2 = New System.Windows.Forms.Button()
+        Me.BTN_Input = New System.Windows.Forms.Button()
+        Me.BTN_Delete = New System.Windows.Forms.Button()
         Me.BTN_Update = New System.Windows.Forms.Button()
-        Me.Button4 = New System.Windows.Forms.Button()
+        Me.BTN_Keluar = New System.Windows.Forms.Button()
         CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
@@ -140,55 +140,55 @@ Partial Class Form1
         Me.CB_JenisKelamin.Size = New System.Drawing.Size(177, 29)
         Me.CB_JenisKelamin.TabIndex = 11
         '
-        'Button1
+        'BTN_Input
         '
-        Me.Button1.Font = New System.Drawing.Font("Times New Roman", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button1.Location = New System.Drawing.Point(86, 315)
-        Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(108, 32)
-        Me.Button1.TabIndex = 12
-        Me.Button1.Text = "Input"
-        Me.Button1.UseVisualStyleBackColor = True
+        Me.BTN_Input.Font = New System.Drawing.Font("Times New Roman", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.BTN_Input.Location = New System.Drawing.Point(86, 315)
+        Me.BTN_Input.Name = "BTN_Input"
+        Me.BTN_Input.Size = New System.Drawing.Size(108, 32)
+        Me.BTN_Input.TabIndex = 12
+        Me.BTN_Input.Text = "Input"
+        Me.BTN_Input.UseVisualStyleBackColor = True
         '
-        'Button2
+        'BTN_Delete
         '
-        Me.Button2.Font = New System.Drawing.Font("Times New Roman", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button2.Location = New System.Drawing.Point(214, 315)
-        Me.Button2.Name = "Button2"
-        Me.Button2.Size = New System.Drawing.Size(108, 32)
-        Me.Button2.TabIndex = 13
-        Me.Button2.Text = "Delete"
-        Me.Button2.UseVisualStyleBackColor = True
+        Me.BTN_Delete.Font = New System.Drawing.Font("Times New Roman", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.BTN_Delete.Location = New System.Drawing.Point(342, 315)
+        Me.BTN_Delete.Name = "BTN_Delete"
+        Me.BTN_Delete.Size = New System.Drawing.Size(108, 32)
+        Me.BTN_Delete.TabIndex = 13
+        Me.BTN_Delete.Text = "Delete"
+        Me.BTN_Delete.UseVisualStyleBackColor = True
         '
         'BTN_Update
         '
         Me.BTN_Update.Font = New System.Drawing.Font("Times New Roman", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.BTN_Update.Location = New System.Drawing.Point(342, 315)
+        Me.BTN_Update.Location = New System.Drawing.Point(214, 315)
         Me.BTN_Update.Name = "BTN_Update"
         Me.BTN_Update.Size = New System.Drawing.Size(108, 32)
         Me.BTN_Update.TabIndex = 14
         Me.BTN_Update.Text = "Update"
         Me.BTN_Update.UseVisualStyleBackColor = True
         '
-        'Button4
+        'BTN_Keluar
         '
-        Me.Button4.Font = New System.Drawing.Font("Times New Roman", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button4.Location = New System.Drawing.Point(470, 315)
-        Me.Button4.Name = "Button4"
-        Me.Button4.Size = New System.Drawing.Size(108, 32)
-        Me.Button4.TabIndex = 15
-        Me.Button4.Text = "Keluar"
-        Me.Button4.UseVisualStyleBackColor = True
+        Me.BTN_Keluar.Font = New System.Drawing.Font("Times New Roman", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.BTN_Keluar.Location = New System.Drawing.Point(470, 315)
+        Me.BTN_Keluar.Name = "BTN_Keluar"
+        Me.BTN_Keluar.Size = New System.Drawing.Size(108, 32)
+        Me.BTN_Keluar.TabIndex = 15
+        Me.BTN_Keluar.Text = "Keluar"
+        Me.BTN_Keluar.UseVisualStyleBackColor = True
         '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(677, 592)
-        Me.Controls.Add(Me.Button4)
+        Me.Controls.Add(Me.BTN_Keluar)
         Me.Controls.Add(Me.BTN_Update)
-        Me.Controls.Add(Me.Button2)
-        Me.Controls.Add(Me.Button1)
+        Me.Controls.Add(Me.BTN_Delete)
+        Me.Controls.Add(Me.BTN_Input)
         Me.Controls.Add(Me.CB_JenisKelamin)
         Me.Controls.Add(Me.TB_Telepon)
         Me.Controls.Add(Me.TB_Nama)
@@ -220,8 +220,8 @@ Partial Class Form1
     Friend WithEvents TB_Nama As TextBox
     Friend WithEvents TB_Telepon As TextBox
     Friend WithEvents CB_JenisKelamin As ComboBox
-    Friend WithEvents Button1 As Button
-    Friend WithEvents Button2 As Button
+    Friend WithEvents BTN_Input As Button
+    Friend WithEvents BTN_Delete As Button
     Friend WithEvents BTN_Update As Button
-    Friend WithEvents Button4 As Button
+    Friend WithEvents BTN_Keluar As Button
 End Class
