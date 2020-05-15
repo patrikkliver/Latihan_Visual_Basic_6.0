@@ -45,10 +45,6 @@ Public Class Form1
         Call KondisiAwal()
     End Sub
 
-    Private Sub BTN_Keluar_Click(sender As Object, e As EventArgs) Handles BTN_Keluar.Click
-        Me.Close()
-    End Sub
-
     Private Sub BTN_Input_Click(sender As Object, e As EventArgs) Handles BTN_Input.Click
         If TB_Nim.Text = "" Or TB_Nama.Text = "" Or CB_JenisKelamin.Text = "" Or TB_Alamat.Text = "" Or TB_Telepon.Text = "" Then
             MsgBox("Tidak Boleh ada Field yang Kosong!!!")
@@ -96,5 +92,9 @@ Public Class Form1
                 MsgBox("Data Tidak di Temukan")
             End If
         End If
+    End Sub
+
+    Private Sub BTN_Keluar_Click(sender As Object, e As EventArgs) Handles BTN_Keluar.Click
+        Me.Close()
     End Sub
 End Class
