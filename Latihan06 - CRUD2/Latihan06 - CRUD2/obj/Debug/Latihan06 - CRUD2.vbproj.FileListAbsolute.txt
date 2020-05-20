@@ -1,0 +1,29 @@
+D:\Patrik\Document\Project\Desktop App\Latihan_Visual_Basic_6.0\Latihan06 - CRUD2\Latihan06 - CRUD2\bin\Debug\Latihan06 - CRUD2.exe.config
+D:\Patrik\Document\Project\Desktop App\Latihan_Visual_Basic_6.0\Latihan06 - CRUD2\Latihan06 - CRUD2\bin\Debug\Latihan06 - CRUD2.exe
+D:\Patrik\Document\Project\Desktop App\Latihan_Visual_Basic_6.0\Latihan06 - CRUD2\Latihan06 - CRUD2\bin\Debug\Latihan06 - CRUD2.pdb
+D:\Patrik\Document\Project\Desktop App\Latihan_Visual_Basic_6.0\Latihan06 - CRUD2\Latihan06 - CRUD2\bin\Debug\Latihan06 - CRUD2.xml
+D:\Patrik\Document\Project\Desktop App\Latihan_Visual_Basic_6.0\Latihan06 - CRUD2\Latihan06 - CRUD2\obj\Debug\Latihan06 - CRUD2.vbprojAssemblyReference.cache
+D:\Patrik\Document\Project\Desktop App\Latihan_Visual_Basic_6.0\Latihan06 - CRUD2\Latihan06 - CRUD2\obj\Debug\Latihan06___CRUD2.Resources.resources
+D:\Patrik\Document\Project\Desktop App\Latihan_Visual_Basic_6.0\Latihan06 - CRUD2\Latihan06 - CRUD2\obj\Debug\Latihan06 - CRUD2.vbproj.GenerateResource.cache
+D:\Patrik\Document\Project\Desktop App\Latihan_Visual_Basic_6.0\Latihan06 - CRUD2\Latihan06 - CRUD2\obj\Debug\Latihan06 - CRUD2.vbproj.CoreCompileInputs.cache
+D:\Patrik\Document\Project\Desktop App\Latihan_Visual_Basic_6.0\Latihan06 - CRUD2\Latihan06 - CRUD2\obj\Debug\Latihan06 - CRUD2.exe
+D:\Patrik\Document\Project\Desktop App\Latihan_Visual_Basic_6.0\Latihan06 - CRUD2\Latihan06 - CRUD2\obj\Debug\Latihan06 - CRUD2.xml
+D:\Patrik\Document\Project\Desktop App\Latihan_Visual_Basic_6.0\Latihan06 - CRUD2\Latihan06 - CRUD2\obj\Debug\Latihan06 - CRUD2.pdb
+D:\Patrik\Document\Project\Desktop App\Latihan_Visual_Basic_6.0\Latihan06 - CRUD2\Latihan06 - CRUD2\bin\Debug\MySql.Data.dll
+D:\Patrik\Document\Project\Desktop App\Latihan_Visual_Basic_6.0\Latihan06 - CRUD2\Latihan06 - CRUD2\bin\Debug\Google.Protobuf.dll
+D:\Patrik\Document\Project\Desktop App\Latihan_Visual_Basic_6.0\Latihan06 - CRUD2\Latihan06 - CRUD2\bin\Debug\Zstandard.Net.dll
+D:\Patrik\Document\Project\Desktop App\Latihan_Visual_Basic_6.0\Latihan06 - CRUD2\Latihan06 - CRUD2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Patrik\Document\Project\Desktop App\Latihan_Visual_Basic_6.0\Latihan06 - CRUD2\Latihan06 - CRUD2\bin\Debug\BouncyCastle.Crypto.dll
+D:\Patrik\Document\Project\Desktop App\Latihan_Visual_Basic_6.0\Latihan06 - CRUD2\Latihan06 - CRUD2\bin\Debug\Ubiety.Dns.Core.dll
+D:\Patrik\Document\Project\Desktop App\Latihan_Visual_Basic_6.0\Latihan06 - CRUD2\Latihan06 - CRUD2\bin\Debug\Renci.SshNet.dll
+D:\Patrik\Document\Project\Desktop App\Latihan_Visual_Basic_6.0\Latihan06 - CRUD2\Latihan06 - CRUD2\bin\Debug\System.Buffers.dll
+D:\Patrik\Document\Project\Desktop App\Latihan_Visual_Basic_6.0\Latihan06 - CRUD2\Latihan06 - CRUD2\bin\Debug\K4os.Compression.LZ4.dll
+D:\Patrik\Document\Project\Desktop App\Latihan_Visual_Basic_6.0\Latihan06 - CRUD2\Latihan06 - CRUD2\bin\Debug\K4os.Hash.xxHash.dll
+D:\Patrik\Document\Project\Desktop App\Latihan_Visual_Basic_6.0\Latihan06 - CRUD2\Latihan06 - CRUD2\bin\Debug\System.Memory.dll
+D:\Patrik\Document\Project\Desktop App\Latihan_Visual_Basic_6.0\Latihan06 - CRUD2\Latihan06 - CRUD2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Patrik\Document\Project\Desktop App\Latihan_Visual_Basic_6.0\Latihan06 - CRUD2\Latihan06 - CRUD2\bin\Debug\System.Numerics.Vectors.dll
+D:\Patrik\Document\Project\Desktop App\Latihan_Visual_Basic_6.0\Latihan06 - CRUD2\Latihan06 - CRUD2\bin\Debug\MySql.Data.xml
+D:\Patrik\Document\Project\Desktop App\Latihan_Visual_Basic_6.0\Latihan06 - CRUD2\Latihan06 - CRUD2\obj\Debug\Latihan06 - CRUD2.exe.config
+D:\Patrik\Document\Project\Desktop App\Latihan_Visual_Basic_6.0\Latihan06 - CRUD2\Latihan06 - CRUD2\obj\Debug\Latihan06 - CRUD2.vbproj.CopyComplete
+D:\Patrik\Document\Project\Desktop App\Latihan_Visual_Basic_6.0\Latihan06 - CRUD2\Latihan06 - CRUD2\obj\Debug\Latihan06___CRUD2.Form_Login.resources
+D:\Patrik\Document\Project\Desktop App\Latihan_Visual_Basic_6.0\Latihan06 - CRUD2\Latihan06 - CRUD2\obj\Debug\Latihan06___CRUD2.Form_MenuUtama.resources
