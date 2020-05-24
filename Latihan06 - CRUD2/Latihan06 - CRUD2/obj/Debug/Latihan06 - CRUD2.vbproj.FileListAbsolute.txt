@@ -27,3 +27,4 @@ D:\Patrik\Document\Project\Desktop App\Latihan_Visual_Basic_6.0\Latihan06 - CRUD
 D:\Patrik\Document\Project\Desktop App\Latihan_Visual_Basic_6.0\Latihan06 - CRUD2\Latihan06 - CRUD2\obj\Debug\Latihan06 - CRUD2.vbproj.CopyComplete
 D:\Patrik\Document\Project\Desktop App\Latihan_Visual_Basic_6.0\Latihan06 - CRUD2\Latihan06 - CRUD2\obj\Debug\Latihan06___CRUD2.Form_Login.resources
 D:\Patrik\Document\Project\Desktop App\Latihan_Visual_Basic_6.0\Latihan06 - CRUD2\Latihan06 - CRUD2\obj\Debug\Latihan06___CRUD2.Form_MenuUtama.resources
+D:\Patrik\Document\Project\Desktop App\Latihan_Visual_Basic_6.0\Latihan06 - CRUD2\Latihan06 - CRUD2\obj\Debug\Latihan06___CRUD2.Form_Admin.resources

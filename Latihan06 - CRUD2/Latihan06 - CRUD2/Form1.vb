@@ -43,4 +43,8 @@ Public Class Form_MenuUtama
         TransaksiToolStripMenuItem.Enabled = False
         LaporanToolStripMenuItem.Enabled = False
     End Sub
+
+    Private Sub AdminToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles AdminToolStripMenuItem.Click
+        Form_Admin.ShowDialog()
+    End Sub
 End Class

@@ -56,19 +56,19 @@ Partial Class Form_MenuUtama
         'LoginToolStripMenuItem
         '
         Me.LoginToolStripMenuItem.Name = "LoginToolStripMenuItem"
-        Me.LoginToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
+        Me.LoginToolStripMenuItem.Size = New System.Drawing.Size(112, 22)
         Me.LoginToolStripMenuItem.Text = "Login"
         '
         'LogoutToolStripMenuItem
         '
         Me.LogoutToolStripMenuItem.Name = "LogoutToolStripMenuItem"
-        Me.LogoutToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
+        Me.LogoutToolStripMenuItem.Size = New System.Drawing.Size(112, 22)
         Me.LogoutToolStripMenuItem.Text = "Logout"
         '
         'ExitToolStripMenuItem
         '
         Me.ExitToolStripMenuItem.Name = "ExitToolStripMenuItem"
-        Me.ExitToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
+        Me.ExitToolStripMenuItem.Size = New System.Drawing.Size(112, 22)
         Me.ExitToolStripMenuItem.Text = "Exit"
         '
         'MasterToolStripMenuItem
